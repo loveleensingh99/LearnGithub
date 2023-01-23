@@ -1,4 +1,4 @@
-(rgb)
-red
-green
-blue 
+Mohit
+Nitika
+Niku
+Rohit 
