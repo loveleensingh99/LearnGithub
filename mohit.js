@@ -1,0 +1,4 @@
+(rgb)
+red
+green
+blue 
