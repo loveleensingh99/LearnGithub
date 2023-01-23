@@ -1,6 +1,1 @@
-
-Red
-Green
-
-Yellow
-
+One
